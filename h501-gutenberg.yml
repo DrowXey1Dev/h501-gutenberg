@@ -1,0 +1,11 @@
+#environment name
+name: h501-gutenberg
+
+dependencies:
+  - python = 3.13 #current version installed in local system
+
+#pip installed packages go here
+pip:
+  - ipykernel
+  - pandas
+  - seaborn
